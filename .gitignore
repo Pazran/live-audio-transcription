@@ -1,0 +1,42 @@
+# Python  
+__pycache__/  
+*.py[cod]  
+*$py.class  
+  
+# Jupyter Notebook  
+.ipynb_checkpoints  
+  
+# Virtual Environment  
+env/  
+venv/  
+.venv/  
+.env  
+pip-log.txt  
+pip-delete-this-directory.txt  
+  
+# IDE  
+.idea/  
+.vscode/  
+*.swp  
+*.swo  
+  
+# Logs and databases  
+logs/  
+database.log  
+*.log  
+  
+# OS generated files  
+.DS_Store  
+Thumbs.db  
+  
+# Build files  
+build/  
+dist/  
+*.egg-info/  
+__pycache__/  
+.coverage  
+.coverage.*  
+htmlcov/  
+  
+# Environment variables file  
+.env 
