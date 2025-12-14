@@ -17,7 +17,7 @@ This project allows you to transcribe **system audio in real-time** using [**Fas
 - Python 3.10+  
 - GPU with CUDA for optimal performance (optional but recommended)  
 
-## Mini Installation
+## Installation
 
 This section provides a quick setup to get started with the project.
 
