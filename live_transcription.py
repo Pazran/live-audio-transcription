@@ -163,8 +163,7 @@ def update_overlay():
     if SHOW_OVERLAY:
         root.after(100, update_overlay)
 
-# -------------------------------
-# 8. Run overlay or main loop
+# Run overlay or main loop
 # -------------------------------
 try:
     if SHOW_OVERLAY:

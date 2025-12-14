@@ -24,7 +24,7 @@ This section provides a quick setup to get started with the project.
 1. **Clone or download the repository**
 ```bash
 git clone https://github.com/yourusername/live-transcription.git
-cd live-transcription
+cd live-audio-transcription
 ```
 
 2. **Create and activate a virtual environment**
