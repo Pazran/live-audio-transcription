@@ -23,7 +23,7 @@ This section provides a quick setup to get started with the project.
 
 1. **Clone or download the repository**
 ```bash
-git clone https://github.com/yourusername/live-transcription.git
+git clone https://github.com/Pazran/live-audio-transcription.git
 cd live-audio-transcription
 ```
 
