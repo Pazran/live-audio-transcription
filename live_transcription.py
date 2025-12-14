@@ -33,7 +33,7 @@ if outfile:
 
 # Load Faster-Whisper model
 # -------------------------------
-model_path = r"\_models\faster-whisper-medium" # .bin model path
+model_path = r"_models\faster-whisper-medium" # .bin model path
 model = WhisperModel(model_path, device="cuda", compute_type="int8")
 
 # Audio settings
