@@ -2,6 +2,8 @@
 
 This project allows you to transcribe **system audio in real-time** using [**Faster-Whisper**](https://github.com/SYSTRAN/faster-whisper) and display it in a **modern, draggable overlay**. You can optionally save the transcript to a text file and translate to English.
 
+![Sample Image](sample.png)
+
 ## Features
 
 - Live transcription of system audio via Stereo Mix / loopback.
